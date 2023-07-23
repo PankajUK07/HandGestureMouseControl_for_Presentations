@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HandGestureMouseControl", "HandGestureMouseControl.pyproj", "{1DC0F1D4-8839-48B9-B587-F8C3788B0F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC0F1D4-8839-48B9-B587-F8C3788B0F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC0F1D4-8839-48B9-B587-F8C3788B0F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8687B43E-152D-4AC3-B6E9-9029CDADFE81}
+	EndGlobalSection
+EndGlobal
